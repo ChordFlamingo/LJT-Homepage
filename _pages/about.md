@@ -22,27 +22,29 @@ My research focuses on **natural language processing** and **machine learning**,
 - **2024**: First-authored *On the Universal Truthfulness Hyperplane Inside LLMs*, accepted to **EMNLP 2024**.
 - **2024**: Co-authored *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation*, accepted to **ICML 2024**.
 
-## Research Experience
+## Publications
 
-- **Research Intern**, **MINIMAX**, February 2025--Present
-- **Research Intern**, **Tencent WXG**, June 2024--September 2024  
-  Advisor: **Zifei Shan**
-- **Research Intern**, **Shanghai AI Lab**, June 2023--December 2023  
-  Advisor: **Prof. Yu Cheng**
+The following publication list is mirrored here on the landing page for quick access; it is also available on the [Publications](/LJT-Homepage/publications/) page.
 
-## Selected Publications
+### 2025
 
 1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
-   *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. 2025.
+   *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. **arXiv**, 2025.
 
 2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.  
-   *On the Perception Bottleneck of VLMs for Chart Understanding*. 2025.
+   *On the Perception Bottleneck of VLMs for Chart Understanding*. **arXiv**, 2025.  
+   Code repository: **Vision4Chart**.
+
+### 2024
 
 3. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He.  
-   *On the Universal Truthfulness Hyperplane Inside LLMs*. **EMNLP 2024**.
+   *On the Universal Truthfulness Hyperplane Inside LLMs*. **EMNLP 2024**.  
+   Code repository: **Universal_Truthfulness_Hyperplane**.
 
 4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
    *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation*. **ICML 2024**.
+
+### 2023
 
 5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.  
    *C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models*. **NeurIPS 2023**.
@@ -50,7 +52,13 @@ My research focuses on **natural language processing** and **machine learning**,
 6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.  
    *Composing Parameter-Efficient Modules with Arithmetic Operations*. **NeurIPS 2023**.
 
-See the [Publications](/LJT-Homepage/publications/) page for a full list.
+## Research Experience
+
+- **Research Intern**, **MINIMAX**, February 2025--Present
+- **Research Intern**, **Tencent WXG**, June 2024--September 2024  
+  Advisor: **Zifei Shan**
+- **Research Intern**, **Shanghai AI Lab**, June 2023--December 2023  
+  Advisor: **Prof. Yu Cheng**
 
 ## Honors
 
